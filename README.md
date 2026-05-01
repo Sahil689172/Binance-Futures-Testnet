@@ -354,5 +354,5 @@ Standard library only otherwise (`hashlib`, `hmac`, `argparse`, `logging`, `deci
 
 ## 👤 Author
 
-Built for the **Python Developer (Trading Bot)** application task.  
+Sahil poply  
 Testnet base URL: `https://testnet.binancefuture.com`
